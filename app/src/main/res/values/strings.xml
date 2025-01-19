@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Custom View</string>
+    <string name="pieChartAmount">Total</string>
+    <string-array name="pieChartColorArray">
+        <item>#81BECE</item>
+        <item>#8BC34A</item>
+        <item>#9C27B0</item>
+        <item>#FF5722</item>
+        <item>#CDDC39</item>
+        <item>#aaa2d8</item>
+        <item>#a27eb8</item>
+        <item>#673AB7</item>
+        <item>#EFB786</item>
+        <item>#009688</item>
+    </string-array>
 </resources>
